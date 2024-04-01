@@ -1,5 +1,5 @@
 import { Lazy } from 'https://cdn.jsdelivr.net/gh/bradbrown-llc/lazy@0.0.0/mod.ts'
-import { Gate } from 'https://cdn.jsdelivr.net/gh/bradbrown-llc/gate@0.0.0/mod.ts'
+import { Gate } from 'https://cdn.jsdelivr.net/gh/bradbrown-llc/gate@0.0.1/mod.ts'
 
 export type SomeSnail = <R>(f:<T>(Snail:Snail<T>)=>R)=>R
 
